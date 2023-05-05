@@ -8,7 +8,10 @@ We use Mage to perform ETL (extract, transform, load)
 
 ## Architecture 
 
-![Alt text](architecture.png?raw=true "Architecture Diagram")
+![Alt text](architecture.png?raw=true "Flow Diagram")
+
+![Alt text](architecture_1.png?raw=true "Architecture Diagram")
+
 
 ## Technology Used
 - Programming Language - Python
